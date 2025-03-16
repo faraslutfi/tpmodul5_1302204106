@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macbookair/Projects/tpmodul5_1302204106/tpmodul5_1302204106/tpmodul5_1302204106.csproj": {}
+    "/Users/macbookair/Desktop/Project/Projects/KPL/Untitled/tpmodul5_1302204106.csproj": {}
   },
   "projects": {
-    "/Users/macbookair/Projects/tpmodul5_1302204106/tpmodul5_1302204106/tpmodul5_1302204106.csproj": {
+    "/Users/macbookair/Desktop/Project/Projects/KPL/Untitled/tpmodul5_1302204106.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macbookair/Projects/tpmodul5_1302204106/tpmodul5_1302204106/tpmodul5_1302204106.csproj",
+        "projectUniqueName": "/Users/macbookair/Desktop/Project/Projects/KPL/Untitled/tpmodul5_1302204106.csproj",
         "projectName": "tpmodul5_1302204106",
-        "projectPath": "/Users/macbookair/Projects/tpmodul5_1302204106/tpmodul5_1302204106/tpmodul5_1302204106.csproj",
+        "projectPath": "/Users/macbookair/Desktop/Project/Projects/KPL/Untitled/tpmodul5_1302204106.csproj",
         "packagesPath": "/Users/macbookair/.nuget/packages/",
-        "outputPath": "/Users/macbookair/Projects/tpmodul5_1302204106/tpmodul5_1302204106/obj/",
+        "outputPath": "/Users/macbookair/Desktop/Project/Projects/KPL/Untitled/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/macbookair/.nuget/NuGet/NuGet.Config"
